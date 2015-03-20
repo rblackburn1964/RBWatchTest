@@ -1,7 +1,7 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "configurable"
     ],
     "companyName": "rblackburn@mindspring.com",
     "longName": "RBWatchTime",
@@ -13,7 +13,7 @@
     "shortName": "RBWatchTime",
     "uuid": "1e7e7c19-e011-49d5-9bcc-5d7ad6786844",
     "versionCode": 1,
-    "versionLabel": "1.1",
+    "versionLabel": "1.2",
     "watchapp": {
         "watchface": true
     }

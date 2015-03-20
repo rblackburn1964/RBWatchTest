@@ -92,7 +92,7 @@ static void main_window_load(Window *window) {
   text_layer_set_text(s_day_label, s_day_buffer);
   text_layer_set_background_color(s_day_label, GColorWhite);
   text_layer_set_text_color(s_day_label, GColorBlack);
-  text_layer_set_font(s_day_label, fonts_get_system_font(FONT_KEY_GOTHIC_18_BOLD));
+  text_layer_set_font(s_day_label, fonts_get_system_font(FONT_KEY_GOTHIC_24_BOLD));
   text_layer_set_text_alignment(s_day_label, GTextAlignmentCenter);
 
   s_stardate_layer = text_layer_create(GRect(0, 125, 144, 24));
