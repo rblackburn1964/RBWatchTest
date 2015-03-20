@@ -1,5 +1,8 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
         "configurable"
     ],
@@ -13,7 +16,7 @@
     "shortName": "RBWatchTime",
     "uuid": "1e7e7c19-e011-49d5-9bcc-5d7ad6786844",
     "versionCode": 1,
-    "versionLabel": "1.2",
+    "versionLabel": "1.4",
     "watchapp": {
         "watchface": true
     }
